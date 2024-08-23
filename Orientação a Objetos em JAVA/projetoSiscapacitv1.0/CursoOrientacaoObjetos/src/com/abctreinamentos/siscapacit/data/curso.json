@@ -1,0 +1,46 @@
+[
+    {
+        "idcurso": 1,
+        "nome": "BootCamp de Desenvolvimento WEB",
+        "foto": "https://abctreinamentos.com.br/imgs/cursos/webdevelopment.png",
+        "formarealizacao": "EAD",
+        "ofertante": "Ironhack",
+        "vagas": 50,
+        "valor": 20000.0,
+        "site": "https://www.ironhack.com/en/web-development",
+        "situacao": "Inscrições Abertas"
+    },
+    {
+        "idcurso": 2,
+        "nome": "Curso de Especialização em Direito Tributário",
+        "foto": "https://abctreinamentos.com.br/imgs/cursos/pos-direito-tributario.png",
+        "formarealizacao": "EAD",
+        "ofertante": "Escola da Magistratura do Estado do Rio de Janeiro",
+        "vagas": 100,
+        "valor": 15000.0,
+        "site": "https://www.emerj.tjrj.jus.br/paginas/cursos/curso_especializacao/2019/direito-tributario/curso-especializacao-direito-tributario.html",
+        "situacao": "Inscrições Abertas"
+    },
+    {
+        "idcurso": 3,
+        "nome": "Especialização em Gestão do Meio Ambiente e das Cidades",
+        "foto": "https://abctreinamentos.com.br/imgs/cursos/pos-meio-ambiente.png",
+        "formarealizacao": "EAD",
+        "ofertante": "PUC-GO",
+        "vagas": 200,
+        "valor": 25000.0,
+        "site": "https://esa.oabgo.org.br/esa/curso.sp?codCurso=160&myCourse=false",
+        "situacao": "Inscrições Abertas"
+    },
+    {
+        "idcurso": 4,
+        "nome": "Mestrado Profissional do Programa de Pós-graduação em Tecnologia da Informação",
+        "foto": "https://abctreinamentos.com.br/imgs/cursos/mestrado-ti.png",
+        "formarealizacao": "EAD",
+        "ofertante": "IFPB",
+        "vagas": 25,
+        "valor": 0.0,
+        "site": "https://estudante.ifpb.edu.br/noticias/mestrado-profissional-do-programa-de-pos-graduacao-em-tecnologia-da-informacao/",
+        "situacao": "Inscrições Abertas"
+    }
+]
